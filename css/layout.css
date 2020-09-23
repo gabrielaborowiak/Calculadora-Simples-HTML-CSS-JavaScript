@@ -1,8 +1,8 @@
 body{
-  background-color: tan;
+  background-color: #f6f6f6;
 }
 .estrutura{
-  background-color: #696969;
+  background-color: #aaaaaa;
   height:360px;
   width:300px;
   border-radius:10px;
@@ -25,7 +25,7 @@ body{
   top: 2px;
   height: 35px;
   color: black;
-  background-color: #bccd95;
+  background-color: #ffe2e2;
   font-size: 21px;
   text-align: right;
   font-weight: bolder;
@@ -48,7 +48,7 @@ body{
   border-bottom:black 2px solid;
 }
 .botao.operacoes{
-  color: red;
+  color: #ffc7c7;
 }
 .botao.numero{
   color: white;
